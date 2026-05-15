@@ -80,6 +80,9 @@ Workflow Steps:
   "priority": "HIGH",
   "risk_level": "MEDIUM",
   "confidence": 78,
+  "recommended_action": "Request missing information before approval"
+}
+```
 
 ---
 
@@ -90,5 +93,3 @@ Live App:
 
 GitHub Repository:
 [GitHub Repository](https://github.com/Hanna1099/ai-pass-automation-task)
-  "recommended_action": "Request missing information before approval"
-}
