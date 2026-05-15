@@ -93,3 +93,18 @@ Live App:
 
 GitHub Repository:
 [GitHub Repository](https://github.com/Hanna1099/ai-pass-automation-task)
+
+## Testing Instructions
+
+1. Open the live application link
+2. Select "Invoice Request"
+3. Paste the following sample input:
+
+Supplier submitted an urgent invoice for €24,000 with missing tax information and inconsistent payment details. Immediate approval requested.
+
+4. Click "Run Workflow"
+5. The system will:
+   - validate input
+   - process AI classification
+   - generate decision output
+   - display execution logs
