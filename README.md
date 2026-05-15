@@ -108,3 +108,44 @@ Supplier submitted an urgent invoice for €24,000 with missing tax information 
    - process AI classification
    - generate decision output
    - display execution logs
+
+## What is Mocked vs Real
+
+Real Components:
+- OpenRouter API integration
+- AI-generated classification
+- Decision generation
+- Structured outputs
+- Execution logging
+- Live deployment
+
+Mocked/Simplified Components:
+- No real invoice database integration
+- No authentication layer
+- No external ERP/API integration
+- Simplified workflow logic for demonstration purposes
+
+---
+
+## Improvements
+
+Future improvements could include:
+- n8n workflow integration
+- database storage
+- webhook/API trigger support
+- retry/fallback handling
+- dashboard analytics
+- Slack/Telegram notifications
+- memory/context retention
+- multi-user workflow management
+
+---
+
+## Technologies Used
+
+- Python
+- Streamlit
+- OpenRouter API
+- Requests Library
+- GitHub
+- Streamlit Cloud
